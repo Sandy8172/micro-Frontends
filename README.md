@@ -34,7 +34,7 @@ I chose **Webpack Module Federation** because:
 
 ## **📂 Folder Structure**
  ```sh
-mfes/
+micro-Frontends/
 │── hostApp/         # Host application (Main shell)
 │── chatApp/         # Micro-frontend for Chat functionality
 │── emailApp/        # Micro-frontend for Email functionality
