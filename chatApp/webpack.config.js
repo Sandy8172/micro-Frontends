@@ -31,7 +31,7 @@ module.exports = {
   devServer: {
     static: path.join(__dirname, "public"),
     port: 3001,
-    open: true,
+    // open: true,
     historyApiFallback: true,
   },
   plugins: [
